@@ -1,0 +1,9 @@
+numpy
+pillow
+torch
+opencv-python
+numpy
+tqdm
+pickle
+torch
+deepface
